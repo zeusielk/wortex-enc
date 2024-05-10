@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="shortcut icon" type="image/jpg" href="src/fav.png" />
+    <script src="https://unpkg.com/node-forge@1.0.0/dist/forge.min.js"></script>
+    <script
+      src="https://kit.fontawesome.com/5f3eca7b90.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="src/style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="logo">
+        <img src="src/logo.png" alt="" />
+      </div>
+
+      <nav class="nav">
+        <a href=""><i class="fa-brands fa-github"></i></a>
+        <a href=""><i class="fa-brands fa-telegram"></i></a>
+        <a href=""><i class="fa-solid fa-link"></i></a>
+      </nav>
+    </header>
+
+    <section class="home">
+      <div class="home-content">
+        <h1>3 Layer Encription</h1>
+        <h3>Proudly introduced in Sri Lanka</h3>
+        <p>
+          "Our cutting-edge web application employs a sophisticated three-layer
+          encryption mechanism to secure user input effectively. Whether it's
+          sensitive information or personal data, our platform ensures top-notch
+          protection through multiple layers of encoding. Users can input their
+          data with confidence, knowing it's shielded by robust encryption
+          algorithms, safeguarding their privacy and peace of mind."
+        </p>
+
+        <div class="btn-box">
+          <a href="">Github</a>
+          <a href="">Let's Talk</a>
+        </div>
+      </div>
+      <div class="input-field">
+        <img src="src/logo.png" alt="" />
+        <div class="input-box">
+          <input type="text" placeholder="Enter plain text" id="inputText" />
+        </div>
+        <div class="input-box copy">
+          <small id="outputText">Your encoded data</small>
+          <i
+            class="fa-regular fa-clipboard"
+            style="color: #ffffff"
+            id="copybtn"
+          ></i>
+        </div>
+
+        <button id="btn">Genarate</button>
+      </div>
+    </section>
+    <script src="src/app.js"></script>
+  </body>
+</html>
