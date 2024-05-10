@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zeusielk/wortex-enc/main/logo.png" alt="TripleLock Logo" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/zeusielk/wortex-enc/main/logo.png" alt="TripleLock Logo" width="200" >
 </p>
 
 <h1 align="center">TripleLock Encryption Web App</h1>
