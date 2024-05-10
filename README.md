@@ -45,13 +45,13 @@ To install TripleLock locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/triplelock.git
+   https://github.com/zeusielk/wortex-enc.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd triplelock
+   cd wortex-enc
    ```
 
 3. Open the `index.html` file in your preferred web browser.
