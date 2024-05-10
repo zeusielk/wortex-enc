@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/zeusielk/wortex-enc/main/logo.png" alt="TripleLock Logo" width="200" >
 </p>
 
-<h1 align="center">wortex Encryption Web App</h1>
+<h1 align="center">Wortex Encryption</h1>
 
 <p align="center">
-  <b>Protect Your Data with TripleLayer Encryption</b>
+  <b>Protect Your Data with Wortex Encryption</b>
 </p>
 
 ---
