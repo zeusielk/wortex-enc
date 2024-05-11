@@ -242,7 +242,7 @@ body {
   cursor: pointer;
 }
 
-@media (max-width: 412px) {
+@media (min-width: 142px) {
   .home {
     display: flex;
     padding: 200px;
@@ -266,5 +266,6 @@ body {
 
   .input-field {
     height: 600px;
+    padding: 1px;
   }
 }
