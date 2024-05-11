@@ -186,7 +186,6 @@ body {
 
 .input-field {
   width: 400px;
-  /* border: 1px solid wheat; */
   height: 400px;
   padding: 30px 7px 7px 7px;
   display: flex;
@@ -241,4 +240,31 @@ body {
 .copy i {
   padding: 1px 10px;
   cursor: pointer;
+}
+
+@media (max-width: 412px) {
+  .home {
+    display: flex;
+    padding: 200px;
+
+    flex-direction: column;
+  }
+  .home-content {
+    padding-bottom: 100px;
+  }
+
+  .header nav {
+    display: none;
+  }
+
+  .header {
+    background-color: #080808;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+  }
+
+  .input-field {
+    height: 600px;
+  }
 }

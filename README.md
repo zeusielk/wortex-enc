@@ -36,7 +36,7 @@ wortex is an advanced web application designed to provide state-of-the-art encry
 
 ## Demo
 
-Check out the live demo of wortex [here](https://your-website.com/demo).
+Check out the live demo of wortex [here](https://zeusielk.github.io/wortex-enc/).
 
 ## Installation
 
